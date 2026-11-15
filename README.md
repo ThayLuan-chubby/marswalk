@@ -4,7 +4,7 @@ Welcome! This repository contains a web project designed to be run locally using
 
 Before getting started, make sure you have the following installed:
 
-1. Visual Studio Code (VS Code)
+1. Visual Studio Code (VS Code) (https://code.visualstudio.com/download)
 
 2. Live Server Extension by Ritwick Dey (Search for "Live Server" in the Extensions view Ctrl+Shift+X / Cmd+Shift+X inside VS Code and click Install).
 
