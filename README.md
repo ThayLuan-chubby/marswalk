@@ -11,8 +11,8 @@ Before getting started, make sure you have the following installed:
 **How to Run (Go Live)**
 
 Follow these steps to run the project locally with live-reloading:
-_
-1. Open the Project in VS Code:_
+
+_1. Open the Project in VS Code:_
 
 Open VS Code.
 
